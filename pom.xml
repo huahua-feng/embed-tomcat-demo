@@ -10,7 +10,7 @@
 
     <properties>
         <spring.version>4.3.24.RELEASE</spring.version>
-        <embed.tomcat.version>8.5.55</embed.tomcat.version>
+        <embed.tomcat.version>8.5.61</embed.tomcat.version>
     </properties>
 
     <dependencies>
